@@ -1,0 +1,17 @@
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\bin\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.deps.json
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\bin\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.dll
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\bin\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.pdb
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.AssemblyInfoInputs.cache
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.AssemblyInfo.cs
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.dll
+C:\Users\gulataykan\source\repos\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.pdb
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\bin\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.deps.json
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\bin\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.dll
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\bin\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.pdb
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.csprojAssemblyReference.cache
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.AssemblyInfoInputs.cache
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.AssemblyInfo.cs
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.dll
+C:\Users\gulataykan\Desktop\uygulamalar\aspnet\aspnetcore-webapi-auth-jwt\ProductCoreApp\CA.ProductCoreApp.Entities\obj\Debug\netcoreapp3.1\CA.ProductCoreApp.Entities.pdb

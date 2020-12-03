@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Business\\CA.ProductCoreApp.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Business\\CA.ProductCoreApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Business\\CA.ProductCoreApp.Business.csproj",
+        "projectName": "CA.ProductCoreApp.Business",
+        "projectPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Business\\CA.ProductCoreApp.Business.csproj",
+        "packagesPath": "C:\\Users\\gulataykan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gulataykan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.DataAccess\\CA.ProductCoreApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.DataAccess\\CA.ProductCoreApp.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.DataAccess\\CA.ProductCoreApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.DataAccess\\CA.ProductCoreApp.DataAccess.csproj",
+        "projectName": "CA.ProductCoreApp.DataAccess",
+        "projectPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.DataAccess\\CA.ProductCoreApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\gulataykan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gulataykan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Entities\\CA.ProductCoreApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Entities\\CA.ProductCoreApp.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Entities\\CA.ProductCoreApp.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Entities\\CA.ProductCoreApp.Entities.csproj",
+        "projectName": "CA.ProductCoreApp.Entities",
+        "projectPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Entities\\CA.ProductCoreApp.Entities.csproj",
+        "packagesPath": "C:\\Users\\gulataykan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gulataykan\\Desktop\\uygulamalar\\aspnet\\aspnetcore-webapi-auth-jwt\\ProductCoreApp\\CA.ProductCoreApp.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gulataykan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
