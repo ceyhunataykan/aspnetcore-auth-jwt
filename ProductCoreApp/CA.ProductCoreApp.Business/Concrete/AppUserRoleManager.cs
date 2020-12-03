@@ -11,7 +11,6 @@ namespace CA.ProductCoreApp.Business.Concrete
     {
         public AppUserRoleManager(IGenericDal<AppUserRole> genericDal) : base(genericDal)
         {
-
         }
     }
 }
