@@ -1,7 +1,5 @@
 # Asp.net Core Web Api JWT Auth NLayer Simple App
-[![Build Status](https://travis-ci.com/ceyhunataykan/aspnetcore-webapi-auth-jwt.svg?branch=main)](https://travis-ci.com/ceyhunataykan/aspnetcore-webapi-auth-jwt)
-
-[![CodeFactor](https://www.codefactor.io/repository/github/ceyhunataykan/aspnetcore-webapi-auth-jwt/badge)](https://www.codefactor.io/repository/github/ceyhunataykan/aspnetcore-webapi-auth-jwt)
+[![Build Status](https://travis-ci.com/ceyhunataykan/aspnetcore-webapi-auth-jwt.svg?branch=main)](https://travis-ci.com/ceyhunataykan/aspnetcore-webapi-auth-jwt) [![CodeFactor](https://www.codefactor.io/repository/github/ceyhunataykan/aspnetcore-webapi-auth-jwt/badge)](https://www.codefactor.io/repository/github/ceyhunataykan/aspnetcore-webapi-auth-jwt)
 
 - ASP.NET CORE 3.1
 - EF Core with Fluent API (SQL Server)
